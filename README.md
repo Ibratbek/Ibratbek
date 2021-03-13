@@ -1,7 +1,7 @@
-## 👋Hi there
+### 👋Hi there
 
-### I'm Ibrat Tillaberdiyev, a junior web developer.
+ I'm Ibrat Tillaberdiyev, a junior web developer.
 
-#### 🔭 I’m currently studying: JavaScript
+ 🔭 I’m currently studying: JavaScript
 
 
