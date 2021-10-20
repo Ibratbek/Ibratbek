@@ -47,6 +47,3 @@
   
 </p>
 
-<div align="center">
-
-#### Thank You for visiting😇
