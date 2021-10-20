@@ -1,5 +1,5 @@
 <p>
-  <h2 align="center"> Hey there! I'm Samandar. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+  <h2 align="center"> Hey there! I'm Ibrat. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 </p>
 <br>
 <p>
@@ -9,10 +9,10 @@
 <h3> I'm Software Engineer from Uzbekistan. </h3>
 <br>
 <br>
-- 🔋  I’m currently learning <b>Flutter</b> .<br>
+- 🔋  I’m currently learning <b>Nodejs</b> .<br>
 - 💬 Ask me about anything, I am happy to help<br>
-- 📫 How to reach me: samandarabduhamitov@gmail.com<br>
-- 😄 My website: https://samandarblog.netlify.app/<br>
+- 📫 How to reach me: tillaberdiyevibrat@gmail.com<br>
+- 😄 My urls: https://myurls.co/ibratbek<br>
 - ⚡️ Fun fact: I use linux🐧
 <br>
 <br>
