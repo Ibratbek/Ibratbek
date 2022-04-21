@@ -17,16 +17,7 @@
 <br>
 <hr>
 <br>
-<b> <h2 align="center"> 📘 My top open source projects </h2> </b>
-<br>
-<p align="center">
-<a href="https://github.com/Ibratbek/blog-app-ts"><img src="https://img.shields.io/badge/BLOG APP-%231877F2.svg?&style=for-the-badge&logo=website&logoColor=white" alt="Facebook" /></a>&nbsp;
-<a href="https://github.com/Ibratbek/trello-app-MongoDB"><img src="https://img.shields.io/badge/Trello app-%23E4405F.svg?&style=for-the-badge&logo=InstagramBot&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://github.com/Ibratbek/excel-files-aggregator"><img src="https://img.shields.io/badge/Excel files aggregator-0088cc.svg?&style=for-the-badge&logo=telegrambot&logoColor=white" alt="Telegram" /></a>&nbsp;
 
-<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
-</p>
-<br>
 <b> <h2 align="center">💻 My Github activity </h2></b>
 <p>
   
